@@ -11,3 +11,6 @@ my technical knowledge.
 Learning Java programming
 Interested in Artificial Intelligence
 Goal: Build real-world software projects
+## Projects
+
+- Student Management System: A project idea to manage student records, course details, and academic information.
