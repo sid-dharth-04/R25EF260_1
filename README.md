@@ -8,3 +8,4 @@ This repository documents my programming
 journey, technical skills, interests and
 goals as I continue learning and developing
 my technical knowledge.
+Learning Java programming
