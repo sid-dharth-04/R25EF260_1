@@ -10,3 +10,4 @@ goals as I continue learning and developing
 my technical knowledge.
 Learning Java programming
 Interested in Artificial Intelligence
+Goal: Build real-world software projects
